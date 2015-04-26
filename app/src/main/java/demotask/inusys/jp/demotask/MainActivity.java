@@ -14,6 +14,7 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
         // 変更テスト
         // 文字コードはUTF-8に
+        //
     }
 
 
